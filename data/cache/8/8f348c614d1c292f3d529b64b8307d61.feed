@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://dokuwiki.test/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://dokuwiki.test/feed.php">
+        <title>Wardana's Wiki</title>
+        <description></description>
+        <link>https://dokuwiki.test/</link>
+        <image rdf:resource="https://dokuwiki.test/lib/tpl/vector/images/favicon.ico" />
+       <dc:date>2022-05-13T10:01:24+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://dokuwiki.test/doku.php?id=start&amp;rev=1652434680&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://dokuwiki.test/lib/tpl/vector/images/favicon.ico">
+        <title>Wardana's Wiki</title>
+        <link>https://dokuwiki.test/</link>
+        <url>https://dokuwiki.test/lib/tpl/vector/images/favicon.ico</url>
+    </image>
+    <item rdf:about="https://dokuwiki.test/doku.php?id=start&amp;rev=1652434680&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2022-05-13T09:38:00+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>start - created</title>
+        <link>https://dokuwiki.test/doku.php?id=start&amp;rev=1652434680&amp;do=diff</link>
+        <description>test</description>
+    </item>
+</rdf:RDF>
